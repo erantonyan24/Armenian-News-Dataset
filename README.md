@@ -1,4 +1,4 @@
-# Armenian News Classification Dataset
+[Armenian News Classification Dataset](https://www.kaggle.com/datasets/erantonyan/armenian-news-classification-dataset)
 
 ## 📚 Overview
 
@@ -40,7 +40,7 @@ To load and preprocess the dataset, you can use the following Python code:
 import pandas as pd
 
 # Load the training data
-train_data = pd.read_csv('data/armenian_news_dataset.csv')
+train_data = pd.read_csv('armenian_news_dataset.csv')
 
 # Display the first few rows
 print(train_data.head())
