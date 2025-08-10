@@ -18,7 +18,7 @@ This dataset comprises a collection of Armenian news articles categorized into m
 
 ## 📥 Accessing the Dataset
 
-You can download the dataset from Kaggle
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/erantonyan/armenian-news-classification-dataset)
 
 
 ## 🧪 Data Structure
